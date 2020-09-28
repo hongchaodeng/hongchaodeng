@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hiring. Submit your resume to hongchao.deng@alibaba-inc.com
+
 <!--
 **hongchaodeng/hongchaodeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
