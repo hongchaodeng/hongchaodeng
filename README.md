@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Hiring.
-- Send your resume to hongchao.deng@alibaba-inc.com .
-- Contact me on LinkedIn: https://www.linkedin.com/in/hongchao-deng/ .
+- Hiring
+- Send your resume to hongchao.deng@alibaba-inc.com
+- Contact me on LinkedIn: https://www.linkedin.com/in/hongchao-deng/
 
 <!--
 **hongchaodeng/hongchaodeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
