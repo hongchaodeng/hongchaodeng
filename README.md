@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Hiring
+- We're hiring
 - Send your resume to hongchao.deng@alibaba-inc.com
 - Contact me on LinkedIn: https://www.linkedin.com/in/hongchao-deng/
 
