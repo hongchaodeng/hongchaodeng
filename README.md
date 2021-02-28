@@ -2,7 +2,7 @@
 
 - I currently work on [KubeVela](kubevela.io).
 - If you are interested in working with us, we're hiring. Send your resume to hongchao.deng@alibaba-inc.com
-- Connect me via LinkedIn: https://www.linkedin.com/in/hongchao-deng/
+- Connect with me via LinkedIn: https://www.linkedin.com/in/hongchao-deng/
 
 <!--
 **hongchaodeng/hongchaodeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
