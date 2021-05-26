@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am [KubeVela](kubevela.io) and [OAM](https://oam.dev/) committers. I focus on open source/cloud native/continuous application delivery technologies.
+- I am [KubeVela](kubevela.io) and [OAM](https://oam.dev/) committers. I focus on open source/cloud native/application delivery technologies.
 - If you are interested in working with us, we're hiring. Send your resume to hongchao.deng@alibaba-inc.com
 - Connect with me via LinkedIn: https://www.linkedin.com/in/hongchao-deng/
 
