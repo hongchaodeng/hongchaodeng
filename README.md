@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- I am [KubeVela](kubevela.io) and [OAM](https://oam.dev/) authors. I focus on open source/cloud native/application delivery technologies.
-- I regularly write blogs here: https://hongchaodeng.github.io/
-- Connect me in LinkedIn: https://www.linkedin.com/in/hongchao-deng/
+- 🌱 I am currently working on [KubeVela](kubevela.io) and [OAM](https://oam.dev/) authors. I focus on open source/cloud native/developer experience.
+- 📫 How to reach me:
+  - LinkedIn: https://www.linkedin.com/in/hongchao-deng/
+  - Twitter: https://twitter.com/hongchaod
 
 <!--
 **hongchaodeng/hongchaodeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
