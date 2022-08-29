@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I am currently working on [KubeVela](kubevela.io) and [OAM](https://oam.dev/) authors. I focus on open source/cloud native/developer experience.
+- 🌱 I am currently working on forkmain.com
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/hongchao-deng/
   - Twitter: https://twitter.com/hongchaod
