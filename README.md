@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I am currently working on [he3.app](https://he3.app)
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/hongchao-deng/
-  - Twitter: https://twitter.com/hongchaod
+  - Homepage: https://hongchaodeng.netlify.app/
 
 <!--
 **hongchaodeng/hongchaodeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
