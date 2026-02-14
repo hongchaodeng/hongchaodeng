@@ -4,7 +4,6 @@
   - We are hiring at [Anyscale](https://www.anyscale.com/). If you are interested in working on [Ray](https://www.ray.io/), send your resume to me (hongchao.deng@anyscale.com)
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/hongchao-deng/
-  - Homepage: https://hongchaodeng.netlify.app/
 
 <!--
 **hongchaodeng/hongchaodeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
