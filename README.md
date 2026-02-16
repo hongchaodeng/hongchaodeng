@@ -1,21 +1,74 @@
-### Hi there 👋
+# Hongchao Deng
 
-- Hiring
-  - We are hiring at [Anyscale](https://www.anyscale.com/). If you are interested in working on [Ray](https://www.ray.io/), send your resume to me (hongchao.deng@anyscale.com)
-- 📫 How to reach me:
-  - LinkedIn: https://www.linkedin.com/in/hongchao-deng/
+🚀 Accelerating AI on Ray | Kubernetes | Cloud Infrastructure | Open Source
 
-<!--
-**hongchaodeng/hongchaodeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Software Engineer at **Anyscale**.
+* Kubernetes core maintainer (former).
+* Co-creator of the **Kubernetes Operator pattern**.
+* Scaled some of the largest Kubernetes clusters in the world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+I build large-scale distributed systems and cloud infrastructure.
+
+Over the past decade, I’ve worked across:
+
+* Kubernetes core & scheduling architecture
+* etcd & control plane performance
+* Cloud-native platforms for enterprises
+* Large-scale cluster efficiency optimization
+* Open-source ecosystem leadership
+
+I care deeply about:
+
+* System scalability
+* Clean architecture
+* Production-grade reliability
+* Practical engineering impact
+
+---
+
+## 🌍 Open Source Leadership
+
+* Co-Chair — CNCF App Delivery TAG (2021–2023)
+* Kubernetes Maintainer (2015–2020)
+* Apache ZooKeeper Committer (2014–2015)
+* KubeCon Track Chair & Reviewer (NA + EU 2022)
+
+---
+
+## 🧠 Technical Focus
+
+```text
+Distributed Systems
+Kubernetes Architecture
+Cluster Scheduling
+Control Plane Engineering
+Cloud Infrastructure
+Terraform & Helm
+Platform Engineering
+```
+
+---
+
+## 🛠 Languages
+
+* Go
+* Python
+* C++
+
+---
+
+## 📈 Areas of Interest
+
+* Large-scale scheduler design
+* Multi-cluster orchestration
+* Resource optimization at hyperscale
+* Operator-based control planes
+* AI infrastructure platforms
+
+## 📫 Connect
+
+* [LinkedIn](https://www.linkedin.com/in/hongchao-deng/)
