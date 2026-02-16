@@ -17,7 +17,7 @@ Over the past decade, I’ve worked across:
 
 * Kubernetes core & scheduling architecture
 * etcd & control plane performance
-* Cloud-native platforms for enterprises
+* AI infra / Ray platform for enterprises
 * Large-scale cluster efficiency optimization
 * Open-source ecosystem leadership
 
@@ -45,8 +45,7 @@ I care deeply about:
 Distributed Systems
 Kubernetes Architecture
 Cluster Scheduling
-Control Plane Engineering
-Cloud Infrastructure
+AI Infra & Ray Platform
 Terraform & Helm
 Platform Engineering
 ```
@@ -63,7 +62,7 @@ Platform Engineering
 
 ## 📈 Areas of Interest
 
-* Large-scale scheduler design
+* Large-scale compute infra
 * Multi-cluster orchestration
 * Resource optimization at hyperscale
 * Operator-based control planes
