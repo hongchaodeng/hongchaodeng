@@ -15,8 +15,7 @@ I build large-scale distributed systems and cloud infrastructure.
 
 Over the past decade, I’ve worked across:
 
-* Kubernetes core & scheduling architecture
-* etcd & control plane performance
+* Kubernetes performance, efficiency, reliability
 * AI infra / Ray platform for enterprises
 * Large-scale cluster efficiency optimization
 * Open-source ecosystem leadership
@@ -42,11 +41,10 @@ I care deeply about:
 ## 🧠 Technical Focus
 
 ```text
-Distributed Systems
 Kubernetes Architecture
-Cluster Scheduling
-AI Infra & Ray Platform
-Terraform & Helm
+Cluster Orchestration
+AI Infra
+Ray (Distributed Computing)
 Platform Engineering
 ```
 
